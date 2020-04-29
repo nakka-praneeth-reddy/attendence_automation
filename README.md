@@ -26,17 +26,9 @@ ExoVisix is a Smart Computer Vision Application with various functionalities. I 
 ## USER INTERFACE
 <img src="./src/appLayout.png" alt="ExoVisix UI" style="width: 700px;"/>
 
-# Installation Guide
-
-
-### Video Guide
-
-
-[![IMAGE ALT TEXT](./src/sc.PNG)](https://www.youtube.com/embed/Wzwc4RUJs1Y "Video Title")
-
 ### IDE
 ```bash
-I have developed this project using Eclipse Neon. So I highly recommend you to use this particular IDE.
+I have developed this project using Eclipse. So I highly recommend you to use this particular IDE.
    ```
    
 ## Maven Dependencies
@@ -153,37 +145,9 @@ Now goto src/application/OCR.java ,in line 36 provide your tesseract installatio
 # Please Note:
 Please Keep it in mind ,sometimes the face recognition algorithm provides wrong output if a person is not trained or unknown to the system.The reason behind this is that the face recognition algorithm guess the face with the nearest match.when it does not find any match ,the system pick any face with a nearest match.this is  why it sometimes provides wrong output.
 
-# Video Tutorial
-* Visit https://www.youtube.com/watch?v=6UnBZFvY8HE&t=3s
 
 
-# LICENCE
 
-```licence
-
-MIT License
-
-Copyright (c) 2017 Anup Kumar Sarkar
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-```
 
        
 
