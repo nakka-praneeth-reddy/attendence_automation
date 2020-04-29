@@ -1,4 +1,4 @@
-# Face_Detection_Based_Attendence_Automation. 
+# Face_Detection_Based_Attendence_Automation./Exovisix
 <p align="center">
  <img src="./logo.png" alt="Logo" style="width: 220px;"/></div>
 </p>
