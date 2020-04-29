@@ -1,4 +1,4 @@
-# e x o V i s i x
+# Face_Detection_Based_Attendence_Automation. 
 <p align="center">
  <img src="./logo.png" alt="Logo" style="width: 220px;"/></div>
 </p>
